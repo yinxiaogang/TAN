@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cosrun>
+  <data>
+    <TaskId>201610130328470</TaskId>
+    <TaskSource>TDPSS</TaskSource>
+    <SatIdValue>TAN1</SatIdValue>
+    <Detector>CAPIX</Detector>
+    <ProductLevel>L2</ProductLevel>
+    <InputDataLevel>L1</InputDataLevel>
+    <NWPType>T639</NWPType>
+    <OrbitNumber>11920</OrbitNumber>
+    <WORKDIR>/gpfs3/TanOnLine/WORKDIR/00002/</WORKDIR>
+    <ConfigDIR>/gpfs3/TanOnLine/CONFIG/</ConfigDIR>
+    <InputGPSDataPath>/gpfs3/TanOnLine/PRODUCT/GPS/</InputGPSDataPath>
+    <InputNWPDataPath>/gpfs3/TanOnLine/PRODUCT/NWP/</InputNWPDataPath>
+    <L0DIR>/gpfs3/TanOnLine/PRODUCT/L0/</L0DIR>
+    <InputAUXData>/gpfs3/TanOnLine/PRODUCT/L0/AUX/TAN1_AUXXX_ORBT_L0_20160618_0000_XXXXX_MS.DAT</InputAUXData>
+    <L1ProductPath>/gpfs3/TanOnLine/PRODUCT/L1/</L1ProductPath>
+    <L2ProductPath>/gpfs3/TanOnLine/PRODUCT/L2/</L2ProductPath>
+    <L3ProductPath>/gpfs3/TanOnLine/PRODUCT/L3/</L3ProductPath>
+    <HSCO2_L0_MODE>/gpfs3/TanOnLine/PRODUCT/L0/TAN1_CAPIX_ORBT_L0_20160618_0935_NDXXX_MS.DAT</HSCO2_L0_MODE>
+    <CAPI_L0_MODE>/gpfs3/TanOnLine/PRODUCT/L0/TAN1_CAPIX_ORBT_L0_20160618_0935_NDXXX_MS.DAT</CAPI_L0_MODE>	
+    <L3INPUTLIST_DF></L3INPUTLIST_DF>
+  </data>
+</cosrun>

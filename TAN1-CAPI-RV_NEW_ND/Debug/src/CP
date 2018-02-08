@@ -1,0 +1,13 @@
+#**********编译CAPI模块并复制到COSRUN**************
+echo "***************TAN1-CAPI-RV ******************"
+
+
+cd /home/yangdongxu/CAPI_Liwei_New/TAN1-CAPI-RV/Debug
+
+make clean
+make all
+
+cp TAN1-CAPI-RV /gpfs3/TanOnLine/BIN
+
+
+echo "*************** 批处理结束 ******************"

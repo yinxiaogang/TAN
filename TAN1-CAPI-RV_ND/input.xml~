@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cosrun>
+  <data>
+    <TaskId>20160518031158</TaskId>
+    <TaskSource>TDPSS</TaskSource>
+    <cSatID>TAN1</cSatID>
+    <Detector>CAPIX</Detector>
+    <ProductLevel>L2</ProductLevel>
+    <InputDataLevel>L1B</InputDataLevel>
+    <NWPType>T639</NWPType>
+    <Mode>ND</Mode>
+    <OrbitNumber>11920</OrbitNumber>
+    <Month>201605</Month>
+    <WORKDIR>/home/TAN1/WORKDIR/CAPI0920</WORKDIR>
+    <ConfigDIR>/home/TAN1/CONFIG/</ConfigDIR>
+    <InputGPSDataPath>/home/TAN1/PRODUCT/GPS/</InputGPSDataPath>
+    <InputNWPDataPath>/home/TAN1/PRODUCT/NWP/CAPI/T639/</InputNWPDataPath>
+    
+	
+    <L1ProductPath>/home/TAN1/PRODUCT/L1/CAPI/L1b</L1ProductPath>
+    <L2ProductPath>/home/TAN1/PRODUCT/L2/CAPI</L2ProductPath>
+    <OrbitNumber>11920</OrbitNumber>    
+
+    <CAPIL1B1KMHDF_DF>/home/TAN1/PRODUCT/L1/CAPI/L1b/Tan1_CAPIX_1B_SCI_ND_A_1000M_ORBT_0258_20150628_NUL_150701.HDF</CAPIL1B1KMHDF_DF>   
+    <CAPIL1B1KMGEOHDF_DF>/home/TAN1/PRODUCT/L1/CAPI/L1b/Tan1_CAPIX_1B_SCI_ND_A_GEO1K_ORBT_0258_20150628_NUL_150701.HDF</CAPIL1B1KMGEOHDF_DF>  
+
+	<CAPI_L0_MODE>/gpfs1/TANTDP/PRODUCT/L0/201609/TAN1_CAPIX_ORBT_L0_20160504_0828_NDXXX_MS.DAT</CAPI_L0_MODE>	
+	    
+    <ModeCounter>A</ModeCounter>
+    <ObserveDate>20160518</ObserveDate>
+    <ObserveTime>110644</ObserveTime>
+    <INSTRUMENT_DAY>XXXX20151208.DAT</INSTRUMENT_DAY>
+    <GPS_DAY>XXXX20151208.DAT</GPS_DAY>
+    <NWP>gmf.639.2016060112000.grb2</NWP>
+  </data>
+</cosrun>
